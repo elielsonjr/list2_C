@@ -7,7 +7,7 @@ int main(){
 	char nomeFunc[30];
 	double salarioFixo, totalDeVendas, comissao, salarioNovo;
 	
-	printf("Nome do Funcion·rio: \n");
+	printf("Nome do Funcion√°rio: \n");
 	scanf("%s", nomeFunc);
 	
 	printf("Qual seu salario fixo em R$: \n");
