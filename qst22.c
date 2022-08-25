@@ -4,7 +4,7 @@
 
 int main(){
 	
-	// deve-se fornecer o tempo gasto na viagem (em horas) e a velocidade média durante a mesma (em km/h).
+	// deve-se fornecer o tempo gasto na viagem (em horas) e a velocidade mÃ©dia durante a mesma (em km/h).
 	
 	int tempo, velocidadeMedia;
 	float litros, distancia;
